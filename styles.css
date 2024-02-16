@@ -145,3 +145,30 @@ section {
     line-height: 18px;
     color: #555555;
 }
+
+@media screen and (max-width: 1030px) {
+
+    .img-header {
+        width: 170px;
+        margin-bottom: 8%;
+    }
+
+    main {
+        background-color: white;
+        border-radius: 20px;
+        padding: 44px 24px 23px;
+        width: 500px;
+        position: static;
+    }
+}
+
+@media screen and (max-width: 500px) {
+
+    .img-header {
+        width: 100px;
+    }
+
+    main {
+        width: 375px;
+    }
+}
