@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <img width="600px" src="https://github.com/feliperyo/conversor-de-moedas/blob/master/assets/desktop.png?raw=true"/>
+  <img width="600px" src="https://github.com/feliperyo/conversor-de-moedas/blob/master/assets/allCurrency.png?raw=true"/>
 </div>
 
 <br>
