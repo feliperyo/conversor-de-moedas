@@ -16,6 +16,7 @@ function currencyConvert() {
     const real = document.querySelector("#realValue").value
 
 
+
     if (selectCurrencyToConvert.value == real && selectCurrency.value == real) {
         valorToConvert.innerHTML = Intl.NumberFormat("pt-br", {
             style: "currency",
