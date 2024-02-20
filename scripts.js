@@ -14,13 +14,6 @@ function currencyConvert() {
     const libra = document.querySelector("#libraValue").value
     const bitcoin = document.querySelector("#bitcoinValue").value
     const real = document.querySelector("#realValue").value
-    /*const dolarC = inputValue / 5.2
-    const euroC = inputValue / 6.2
-    const libraC = inputValue / 6.26
-    const bitcoinC = inputValue / 260 */
-
-
-
 
 
     if (selectCurrencyToConvert.value == real && selectCurrency.value == real) {
