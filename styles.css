@@ -13,24 +13,25 @@ body {
 
 header {
     width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
 }
 
 .img-header {
     width: 170px;
     height: auto;
-    display: block;
-    margin: 20px auto;
 }
 
 main {
     background-color: white;
     border-radius: 20px;
-    margin: 0px auto 40px;
     padding: 44px 24px 23px;
-    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     width: 375px;
-    position: absolute;
-    left: 40%;
+    margin: 0 auto;
 }
 
 label {
@@ -156,9 +157,7 @@ section {
     main {
         background-color: white;
         border-radius: 20px;
-        padding: 44px 24px 23px;
         width: 500px;
-        position: static;
     }
 }
 
