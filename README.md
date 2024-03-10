@@ -1,6 +1,6 @@
 <h1 align="center">
   Conversor de Moedas</h1>
-<h3 align="center">Estudo de JavaScript.</h3>
+<h3 align="center">Estudo de JavaScript utilizando API.</h3>
 <br>
 
 <div align="center">
