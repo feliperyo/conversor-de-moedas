@@ -9,7 +9,6 @@
 
 <br>
 <h3 align="center">O conversor funciona de verdade, clique no botão abaixo para testar.</h3>
-<p align="center">(Os valores das moedas foram predefinidas, não são dinâmicas).</p>
 <br>
 <div align="center">
 <a href="https://feliperyo.github.io/conversor-de-moedas/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a>
